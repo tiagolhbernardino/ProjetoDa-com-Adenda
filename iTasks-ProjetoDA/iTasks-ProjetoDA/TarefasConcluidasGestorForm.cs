@@ -35,7 +35,7 @@ namespace iTasks_ProjetoDA
             lvTarefasTerminadas.Columns.Add("Fim Previsto", 100, HorizontalAlignment.Left);
             lvTarefasTerminadas.Columns.Add("Início Real", 100, HorizontalAlignment.Left);
             lvTarefasTerminadas.Columns.Add("Fim Real", 100, HorizontalAlignment.Left);
-
+            lvTarefasTerminadas.Columns.Add("Projeto", 100, HorizontalAlignment.Left);
             CarregarListaTarefas();
         }
 
@@ -47,6 +47,7 @@ namespace iTasks_ProjetoDA
             {
                 var lista = db.Tarefas
                     .Include(t => t.Programador)
+                    .Include(t => t.Projeto)
                     .Where(t =>
                         t.EstadoAtual == EstadoAtual.Done &&
                         t.IdGestor == utilizadorAtual.Id &&
@@ -70,6 +71,7 @@ namespace iTasks_ProjetoDA
                     item.SubItems.Add(t.DataPrevistaFim.ToShortDateString());
                     item.SubItems.Add(t.DataInicio.Value.ToShortDateString());
                     item.SubItems.Add(t.DataFim.Value.ToShortDateString());
+                    item.SubItems.Add(t.Projeto.Descricao.ToString());
                     lvTarefasTerminadas.Items.Add(item);
                 }
             }
