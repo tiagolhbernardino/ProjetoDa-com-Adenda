@@ -1,0 +1,660 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\kanbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\kanbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\kanbanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\kanbanform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\gestaodeprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\gestaodeprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\verasminhastarefasconcluidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\verasminhastarefasconcluidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\criartarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\criartarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\criartarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\criartarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\kanbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\kanbanform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\verasminhastarefasconcluidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\verasminhastarefasconcluidasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\tarefasconcluidasgestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tarefasconcluidasgestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\listagemprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\listagemprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\tarefasemcursogestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tarefasemcursogestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\tarefasemcursogestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tarefasemcursogestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\listagemprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\listagemprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\listagemprojetosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\listagemprojetosform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\programador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\tarefasconcluidasgestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tarefasconcluidasgestorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\tarefasconcluidasgestorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tarefasconcluidasgestorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\migrations\\202506251911214_itaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\migrations\\202506251911214_itaskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\gestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\itaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\itaskscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasterminadasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasterminadasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\projeto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasporfazerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasporfazerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasporfazerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasporfazerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasemexecucaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasemexecucaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasemexecucaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasemexecucaoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\vertarefasterminadasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\vertarefasterminadasform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\tipostarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tipostarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|c:\\users\\tiagl\\onedrive\\ambiente de trabalho\\projeto\\itasks-projetoda\\itasks-projetoda\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\tipotarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\tipostarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\tipostarefaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\gestaodeprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\gestaodeprojetosform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\criarutilizadoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\criarutilizadoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\models\\utilizador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\criarutilizadoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\criarutilizadoresform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\itasks-projetoda\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98770263-3C8F-4E25-917C-BE589D5F3041}|iTasks-ProjetoDA\\iTasks-ProjetoDA.csproj|solutionrelative:itasks-projetoda\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks_ProjetoDA.iTasksContext/True/SqlTable/dbo.Utilizadors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KanbanForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\KanbanForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\KanbanForm.cs",
+              "ViewState": "AQIAAHcBAAAAAAAAAAAkwK8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:31:47.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KanbanForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.Designer.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\KanbanForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.Designer.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\KanbanForm.Designer.cs",
+              "ViewState": "AQIAAGwBAAAAAAAAAAAuwH4BAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:06:57.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerAsMinhasTarefasConcluidasForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:28:35.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestaoDeProjetosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\GestaoDeProjetosForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\GestaoDeProjetosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:41:18.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CriarTarefaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarTarefaForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\CriarTarefaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:29:15.255Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CriarTarefaForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\CriarTarefaForm.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAqwEQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T20:29:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VerAsMinhasTarefasConcluidasForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerAsMinhasTarefasConcluidasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T12:26:58.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KanbanForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\KanbanForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\KanbanForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\KanbanForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T09:35:41.408Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarefasConcluidasGestorForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAqwFgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:09:36.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListagemProjetosForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\ListagemProjetosForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:05:36.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TarefasEmCursoGestorForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:32:34.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TarefasEmCursoGestorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TarefasEmCursoGestorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:30:45.769Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListagemProjetosForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\ListagemProjetosForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwCAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:07:40.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListagemProjetosForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.Designer.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\ListagemProjetosForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\ListagemProjetosForm.Designer.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\ListagemProjetosForm.Designer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAwwBYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:13:24.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Tarefa.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\Tarefa.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:00:34.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Program.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Program.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Program.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwBkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:35:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TarefasConcluidasGestorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:09:16.566Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Programador.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Programador.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\Programador.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Programador.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\Programador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:51:19.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TarefasConcluidasGestorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.Designer.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TarefasConcluidasGestorForm.Designer.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TarefasConcluidasGestorForm.Designer.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDMAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:54:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Gestor.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Gestor.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\Gestor.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Gestor.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\Gestor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:59:58.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202506251911214_iTaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Migrations\\202506251911214_iTaskContext.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Migrations\\202506251911214_iTaskContext.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Migrations\\202506251911214_iTaskContext.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Migrations\\202506251911214_iTaskContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:11:35.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "iTasksContext.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\iTasksContext.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\iTasksContext.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\iTasksContext.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\iTasksContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:16:45.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "VerTarefasEmExecucaoForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA+wDIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:49:29.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Projeto.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Projeto.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\Projeto.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Projeto.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\Projeto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T14:09:18.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VerTarefasTerminadasForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAAAEYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:00:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VerTarefasPorFazerForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:56:55.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VerTarefasPorFazerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasPorFazerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:56:53.846Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "VerTarefasEmExecucaoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasEmExecucaoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T15:49:25.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "VerTarefasTerminadasForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\VerTarefasTerminadasForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:00:48.809Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LogInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\LogInForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\LogInForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\LogInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T16:23:31.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TiposTarefaForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAADwv0QAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T11:20:06.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "TiposTarefaForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\TiposTarefaForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\TiposTarefaForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\TiposTarefaForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:07:45.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TipoTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\TipoTarefa.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\TipoTarefa.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\TipoTarefa.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\TipoTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:58:05.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GestaoDeProjetosForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\GestaoDeProjetosForm.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T14:41:21.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CriarUtilizadoresForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarUtilizadoresForm.cs [Design]",
+              "RelativeToolTip": "iTasks-ProjetoDA\\CriarUtilizadoresForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:37:21.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Utilizador.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Utilizador.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\Models\\Utilizador.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\Models\\Utilizador.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\Models\\Utilizador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:02:19.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CriarUtilizadoresForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\CriarUtilizadoresForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T18:37:23.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "LogInForm.cs",
+              "DocumentMoniker": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\LogInForm.cs",
+              "RelativeDocumentMoniker": "iTasks-ProjetoDA\\LogInForm.cs",
+              "ToolTip": "C:\\Users\\tiagl\\OneDrive\\Ambiente de Trabalho\\Projeto\\iTasks-ProjetoDA\\iTasks-ProjetoDA\\LogInForm.cs",
+              "RelativeToolTip": "iTasks-ProjetoDA\\LogInForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T14:04:42.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "dbo.Utilizadors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/iTasks_ProjetoDA.iTasksContext/True/SqlTable/dbo.Utilizadors.sql",
+              "ToolTip": "dbo.Utilizadors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-16T20:07:51.091Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{98770263-3C8F-4E25-917C-BE589D5F3041}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>iTasks_ProjetoDA</RootNamespace>
+    <AssemblyName>iTasks-ProjetoDA</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CriarTarefaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriarTarefaForm.Designer.cs">
+      <DependentUpon>CriarTarefaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CriarUtilizadoresForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CriarUtilizadoresForm.Designer.cs">
+      <DependentUpon>CriarUtilizadoresForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Enums\Departamento.cs" />
+    <Compile Include="Enums\EstadoAtual.cs" />
+    <Compile Include="Enums\NivelExperiencia.cs" />
+    <Compile Include="GestaoDeProjetosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestaoDeProjetosForm.Designer.cs">
+      <DependentUpon>GestaoDeProjetosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KanbanForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KanbanForm.Designer.cs">
+      <DependentUpon>KanbanForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListagemProjetosForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListagemProjetosForm.Designer.cs">
+      <DependentUpon>ListagemProjetosForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogInForm.Designer.cs">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="iTasksContext.cs" />
+    <Compile Include="Migrations\202506251911214_iTaskContext.cs" />
+    <Compile Include="Migrations\202506251911214_iTaskContext.Designer.cs">
+      <DependentUpon>202506251911214_iTaskContext.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Gestor.cs" />
+    <Compile Include="Models\Programador.cs" />
+    <Compile Include="Models\Projeto.cs" />
+    <Compile Include="Models\Tarefa.cs" />
+    <Compile Include="Models\TipoTarefa.cs" />
+    <Compile Include="Models\Utilizador.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TarefasConcluidasGestorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TarefasConcluidasGestorForm.Designer.cs">
+      <DependentUpon>TarefasConcluidasGestorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TarefasEmCursoGestorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TarefasEmCursoGestorForm.Designer.cs">
+      <DependentUpon>TarefasEmCursoGestorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerAsMinhasTarefasConcluidasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerAsMinhasTarefasConcluidasForm.Designer.cs">
+      <DependentUpon>VerAsMinhasTarefasConcluidasForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerTarefasEmExecucaoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerTarefasEmExecucaoForm.Designer.cs">
+      <DependentUpon>VerTarefasEmExecucaoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TiposTarefaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TiposTarefaForm.Designer.cs">
+      <DependentUpon>TiposTarefaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerTarefasPorFazerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerTarefasPorFazerForm.Designer.cs">
+      <DependentUpon>VerTarefasPorFazerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VerTarefasTerminadasForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VerTarefasTerminadasForm.Designer.cs">
+      <DependentUpon>VerTarefasTerminadasForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="CriarTarefaForm.resx">
+      <DependentUpon>CriarTarefaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CriarUtilizadoresForm.resx">
+      <DependentUpon>CriarUtilizadoresForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestaoDeProjetosForm.resx">
+      <DependentUpon>GestaoDeProjetosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KanbanForm.resx">
+      <DependentUpon>KanbanForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListagemProjetosForm.resx">
+      <DependentUpon>ListagemProjetosForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogInForm.resx">
+      <DependentUpon>LogInForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202506251911214_iTaskContext.resx">
+      <DependentUpon>202506251911214_iTaskContext.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TarefasConcluidasGestorForm.resx">
+      <DependentUpon>TarefasConcluidasGestorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TarefasEmCursoGestorForm.resx">
+      <DependentUpon>TarefasEmCursoGestorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerAsMinhasTarefasConcluidasForm.resx">
+      <DependentUpon>VerAsMinhasTarefasConcluidasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerTarefasEmExecucaoForm.resx">
+      <DependentUpon>VerTarefasEmExecucaoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TiposTarefaForm.resx">
+      <DependentUpon>TiposTarefaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerTarefasPorFazerForm.resx">
+      <DependentUpon>VerTarefasPorFazerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VerTarefasTerminadasForm.resx">
+      <DependentUpon>VerTarefasTerminadasForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>
