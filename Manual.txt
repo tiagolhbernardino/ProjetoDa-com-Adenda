@@ -1,0 +1,61 @@
+
+
+
+**Manual de Instruções para o iTasks**
+
+**1. Visão Geral**
+
+- **Nome**: iTasks – Sistema Desktop de Gestão de Tarefas
+- **Objetivo**: Permitir a gestão completa de utilizadores, projetos e tarefas em ambiente Windows Forms, incluindo visão Kanban e relatórios de estado.
+- **Perfis de Utilizador**:
+  - **Gestor**: cria e atribui projetos/tarefas, gere equipas.
+  - **Programador**: consulta e atualiza o estado das suas tarefas.
+
+**2. Requisitos**
+
+- **SO**: Windows 10/11 ou superior.
+- **.NET Framework**: v4.8 instalado.
+- **IDE**: Visual Studio 2022+ (com suporte a Windows Forms e Entity Framework).
+- **Banco de Dados**: SQL Server LocalDB (instalado com Visual Studio).
+
+**3. Instalação e Configuração**
+
+1. Faça clone ou extraia o zip do repositório.
+2. Abra `iTasks-ProjetoDA.sln` no Visual Studio.
+3. No menu **Tools > NuGet Package Manager > Package Manager Console**, execute:
+   Update-Database -ProjectName iTasks-ProjetoDA
+   Isso cria o esquema no LocalDB (LocalDb\\MSSQLLocalDB).
+4. Compile (Build > Build Solution).
+5. Defina o iTasks como projeto de arranque e corra (F5).
+
+**4. Primeiro Arranque e Login**
+
+- No primeiro arranque não há utilizadores.
+- As credenciais para inicio da primeira sessão são Admin/Admin	
+- Após criação, feche o formulário e faça login com essas credenciais.
+
+**5. Uso Básico**
+
+1. Dashboard Kanban: menu principal exibe colunas Por Fazer, Em Execução e Concluídas.
+2. Criar Projeto: Gestão de Projetos > Novo Projeto.
+3. Criar Tarefa: Tarefas > Criar Tarefa: atribua projeto, tipo, descrição, data, responsável.
+4. Atualizar Estado: arraste tarefa entre colunas no KanbanForm ou use Ver Tarefas nos menus laterais.
+5. Visões Detalhadas:
+   - Ver Tarefas por Fazer
+   - Ver Tarefas em Execução
+   - Ver Tarefas Concluídas (todas ou apenas as minhas).
+
+**6. Funcionalidades Avançadas**
+
+- Criar Múltiplas Tarefas: Criar Tarefas em Lote para gestores planearem sprints.
+- Tipos de Tarefa: Gestão > Tipos de Tarefa para personalizar categorias (Ex.: Bug, Feature, Documentação).
+- Filtros: na listagem, filtre por projeto, prazo ou tipo.
+
+**7. Resolução de Problemas**
+
+Sintoma                         | Causa Provável                     | Solução
+------------------------------- | ---------------------------------- | -------------------------------
+Erro de conexão SQL             | LocalDB não instalado ou parado    | Instalar/Start SqlLocalDB
+Entity Framework Migration Fail | Pacotes NuGet não restaurados      | Restore NuGet Packages
+Formulário não abre             | Falta de permissão ou DLL em falta | Executar VS como Admin; rebuild
+
